@@ -1,4 +1,6 @@
 # `spdk-rs` crate
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fopenebs%2Fspdk-rs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fopenebs%2Fspdk-rs?ref=badge_shield)
+
 
 `spdk-rs` crate provides a higher-level bindings and wrappers around
 SPDK library to enable building safer SPDK-based Rust applications.
@@ -347,3 +349,7 @@ Same as 22.09+ but with the following additionally:
      --with-fio=$(realpath $(dirname $(which fio))/..)
  make
  ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fopenebs%2Fspdk-rs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fopenebs%2Fspdk-rs?ref=badge_large)
